@@ -1,1 +1,2 @@
 origin ssample txt creation
+clone ssample txt creation
